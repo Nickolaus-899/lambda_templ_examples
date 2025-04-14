@@ -43,6 +43,7 @@ int main() {
 
     std::cout << "\n";
     lambda_14(10);
+    lambda_14("Some string");
 
     std::cout << "\n";
 
